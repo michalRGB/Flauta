@@ -1,0 +1,3 @@
+each script can be run using python [scirpt_name] command
+required libraries:
+pip install pandas scikit-learn matplotlib seaborn joblib numpy opencv-python mediapipe
